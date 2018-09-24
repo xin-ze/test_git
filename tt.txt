@@ -3,4 +3,5 @@ add one line in vps
 insert one line
 add second line in vps 10:37
 test git -a / over add
-
+test -amend
+test -amend -2
