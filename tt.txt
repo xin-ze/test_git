@@ -1,8 +1,11 @@
-add one line 10:32 in mac_work
-add one line in vps
-insert one line
-add second line in vps 10:37
-test git -a / over add
-test -amend
-test -amend -2
-test amend -3
+add one line 10:32 in mac_work;
+add one line in vps;
+insert one line;
+add second line in vps 10:37;
+test git -a / over add;
+
+hi,test -amend -2;bye~
+test amend -3;
+test git -a / over add;
+test -amend;
+<a href="http://pragprog.com/dnvim/">Practical Vim</a>;

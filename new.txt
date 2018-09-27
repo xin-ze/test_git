@@ -1,1 +1,6 @@
-dodd
+ne one
+Line two
+
+Liine three
+Line fourdodd
+var foo = "method(" + argument1 + "," + argument2 + ")";
