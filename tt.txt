@@ -11,4 +11,7 @@ test amend -3
 add second line in tt.txt in work_pc at 10:39
 
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 10.06 add
+=======
+>>>>>>> 1c9cc2f0b3ddd17b9dbfb47bb11b68f2ef0b9ad8
