@@ -7,3 +7,4 @@ test git -a / over add;
 hi,test -amend -2;bye~
 test amend -3;
 test git -a / over add;
+10.10 add a line in tt
