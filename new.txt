@@ -4,3 +4,4 @@ Line two
 Liine three
 Line fourdodd
 var foo = "method(" + argument1 + "," + argument2 + ")";
+add a line
